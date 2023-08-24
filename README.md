@@ -1,2 +1,2 @@
 # Project-Euler-with-Ruby
-Bu repoda kendime meydan okuduğum Project Euler'in Ruby dili çözümlerini bulacaksınız.
+In this repo you will find the Ruby language solutions of Project Euler that I challenged myself.
