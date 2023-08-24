@@ -12,7 +12,6 @@ number = 600851475143
         end
         i += 1
     end
-puts prime_factors
 puts prime_factors.max
 
 #largest prime factor "6857"
